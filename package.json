@@ -17,7 +17,7 @@
     "postcss-cli": "^10.1.0",
     "tailwindcss": "^3.3.1"
   },
-  "name": "init",
+  "name": "study",
   "packageManager": "yarn@1.22.1",
   "workspaces": [
     "apps/*",
