@@ -1,10 +1,5 @@
 module.exports = {
-  content: [
-    "../../apps/project1/src/**/*.{ts,tsx}",
-    "../../apps/project1/src/*.{ts,tsx}",
-    "../../packages/ui/**/*.{ts,tsx}",
-    "../../packages/ui/*.{ts,tsx}",
-  ],
+  content: ["../../packages/ui/**/*.{ts,tsx}", "../../packages/ui/*.{ts,tsx}"],
 
   theme: {
     colors: {
