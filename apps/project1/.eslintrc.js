@@ -5,7 +5,10 @@ module.exports = {
       node: {
         paths: ["src"],
       },
-      alias: {},
+      alias: {
+        map: [["@pages", "./src/pages"]],
+        extensions: [".ts", ".tsx"],
+      },
     },
   },
 };
